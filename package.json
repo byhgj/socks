@@ -1,0 +1,19 @@
+{
+  "name": "socks",
+  "version": "0.0.1",
+  "description": "socks client, support socks version 5",
+  "main": "socks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byhgj/socks.git"
+  },
+  "keywords": [
+    "socks",
+    "client"
+  ],
+  "author": "byhgj",
+  "license": "BSD"
+}
